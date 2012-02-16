@@ -1,0 +1,5 @@
+This project contains the Visual Studio project and installer script for the Windows State Service for use with my Computer Availability Django app.
+
+It was written with Visual C# 2010, so I'm not sure if it'll work in VS 2009 or older.
+
+Requires Microsoft.NET 3.5 (included in Windows 7, but not XP).
